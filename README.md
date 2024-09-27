@@ -7,35 +7,12 @@ The goal of this repository is to provide a structured approach for brainstormin
 ## Table of Contents
 
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## How to Use This Repository
 
 Each folder in this repository contains markdown files with prompts related to different stages of AI use case development. Follow the prompts in each file to guide your thoughts and discussions during the workshop.
-
-## Folder Structure
-
-Prompts-for-Describing-AI-Use-Cases/
-│
-├── 1_Introduction_and_Context/
-│   ├── 1.1_Understanding_Use_Cases.md
-│   ├── 1.2_Setting_Objectives.md
-│   ├── 1.3_Exploring_AI_Technologies.md
-│
-├── 2_Categorization_and_Clustering/
-│   ├── 2.1_Categorization.md
-│   ├── 2.2_Clustering.md
-│   ├── 2.3_Prioritization.md
-│
-└── 3_Use_Case_Description/
-├── 3.1_Problem_Identification.md
-├── 3.2_Solution_Exploration.md
-├── 3.3_Impact_Assessment.md
-├── 3.4_Implementation_Strategy.md
-├── 3.5_Data_Requirements.md
-├── 3.6_Technology_Readiness.md
 
 ### 1_Introduction_and_Context/
 - **1.1_Understanding_Use_Cases.md**: Prompts to define and understand use cases.
